@@ -1,0 +1,19 @@
+{
+  "name": "pincode-search",
+  "version": "1.0.0",
+  "description": "Provides details about the PIN code system in India",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuldeepnb03/pincode-search.git"
+  },
+  "author": "Kuldeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuldeepnb03/pincode-search/issues"
+  },
+  "homepage": "https://github.com/Kuldeepnb03/pincode-search#readme"
+}
