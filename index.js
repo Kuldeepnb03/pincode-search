@@ -109,7 +109,7 @@ const POSTOFFICE_API_URL = "https://api.postalpincode.in/postoffice/";
  * @param query ==> Can be a picode or any postoffice query
  * @returns
  */
-async function getPincodData(query = "", isPincode = true) {
+async function getPincodeData(query = "", isPincode = true) {
   try {
     /**
      * Success Repsonse format
@@ -155,4 +155,4 @@ async function getPincodData(query = "", isPincode = true) {
   }
 }
 
-module.exports = { get, list, getPincodData };
+module.exports = { get, list, getPincodeData };
