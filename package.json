@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kuldeepnb03/pincode-search/issues"
   },
-  "homepage": "https://github.com/Kuldeepnb03/pincode-search#readme"
+  "homepage": "https://github.com/Kuldeepnb03/pincode-search#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
